@@ -28,6 +28,28 @@
   color: #61dafb;
 }
 
+.Body {
+  height: 40rem;
+  border: 2px solid;
+  display: flex;
+}
+
+img {
+  width: 100%;
+  object-fit: cover;
+}
+
+.img-container {
+  height: 300px;
+  width: 300px;
+}
+
+.Footer {
+  height: 10rem;
+  border: 2px solid;
+  display: flex;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

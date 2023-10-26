@@ -15,7 +15,6 @@ function App() {
                 <div className="bg-image hover-overlay shadow-1-strong rounded">
                   <img
                     src="https://apod.nasa.gov/apod/image/2306/Shark_Kennedy_960.jpg"
-                    alt="City"
                     height="150px"
                     width="160px"
                   />
@@ -31,7 +30,6 @@ function App() {
                 <div className="bg-image hover-overlay shadow-1-strong rounded">
                   <img
                     src="https://iasbh.tmgrup.com.tr/bef33a/740/479/0/0/1148/744?u=https://isbh.tmgrup.com.tr/sbh/2021/03/07/uzay-yuruyusunden-gelen-kareler-nefes-kesti-iste-dunyanin-kartpostallik-goruntuleri-1615101454862.jpg"
-                    alt="City"
                     height="150px"
                     width="160px"
                   />
@@ -47,7 +45,6 @@ function App() {
                 <div className="bg-image hover-overlay shadow-1-strong rounded">
                   <img
                     src="https://www.cumhuriyet.com.tr/Archive/2020/7/16/165000217-gunesuzay.png"
-                    alt="City"
                     height="150px"
                     width="160px"
                   />
@@ -63,7 +60,6 @@ function App() {
                 <div className="bg-image hover-overlay shadow-1-strong rounded">
                   <img
                     src="https://cdnuploads.aa.com.tr/uploads/Contents/2022/08/23/thumbs_b_c_2bcba6d205ed2bde3ff15b96dc8faa59.jpg?v=142011"
-                    alt="City"
                     height="150px"
                     width="160px"
                   />
@@ -79,7 +75,6 @@ function App() {
                 <div className="bg-image hover-overlay shadow-1-strong rounded">
                   <img
                     src="https://pbs.twimg.com/media/Cm_suIuWAAAXUAH.jpg"
-                    alt="City"
                     height="150px"
                     width="160px"
                   />
@@ -95,7 +90,6 @@ function App() {
                 <div className="bg-image hover-overlay shadow-1-strong rounded">
                   <img
                     src="https://img3.aksam.com.tr/imgsdisk/2019/04/10/t25_100420191237039480076.jpg"
-                    alt="City"
                     height="150px"
                     width="160px"
                   />
